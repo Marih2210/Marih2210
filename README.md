@@ -5,6 +5,21 @@
 - 📫 Contate-me: marivelozo2019@gmail.com
 - 😄 Pronomes: Ela/Dela
 
+<div>
+  <a href = "https://github.com/Marih2210"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Marih2210&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Marih2210&layout=compact"/>
+</div>
+
+<div>
+
+</div>
+
+##
+
+<div>
+
+</div>
 
 
 
