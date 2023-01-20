@@ -19,7 +19,7 @@
 ##
 
 <div>
-<a href="https://www.linkedin.com/in/mariana-veloso-979436231/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mariana-veloso-979436231/" target="_blank"</a> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mariana-veloso-979436231/" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee"/></a>
 </div>
 
