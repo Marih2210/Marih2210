@@ -12,7 +12,7 @@
 </div>
 
 <div style = "display: inline_block"><br>
-  <img align="center" src = "https://skillicons.dev/icons?i=html,css,js,java,python,typescript,java,c#">
+  <img align="center" src = "https://skillicons.dev/icons?i=html,css,js,java,python,typescript,c#">
   <img align="right" width="150" height="150" src = "https://i.picasion.com/pic92/c0426e578bff37024a2c92740e01693b.gif"/>
 </div>
 
