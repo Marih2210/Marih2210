@@ -1,8 +1,8 @@
 ### Olá! Seja bem vindo(a), me chamo Mariana Veloso e estou na busca diária para me tornar uma desenvolvedora full stack!
 
 - 🔭 Atualmente estou atuando como Estagiária de Desenvolvimento na empresa OPT, estando diariamente em contato com projetos reais do mercado de trabalho e constantemente desenvolvendo novas habilidades e aprimorando meus conhecimentos.
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas e sempre focada nos estudos de linguagem de programação.
-- 📫 Contate-me: marivelozo2019@gmail.com
+- 🌱 Formada em Análise e Desenvolvimento de Sistemas pela Fatec de São José dos Campos.
+- 📫 Contate-me: - marivelozo2019@gmail.com
 - 😄 Pronomes: Ela/Dela
 
 <div>
