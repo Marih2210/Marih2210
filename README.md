@@ -8,9 +8,9 @@
 
 <div>
   <a href="https://github.com/Marih2210">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Marih2210&count_private=true&show_icons=true&theme=dark"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Marih2210&count_private=true&show_icons=true&theme=tokyonight"/>
   </a>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marih2210&layout=compact&theme=dark"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marih2210&layout=compact&theme=tokyonight"/>
 </div>
 
 <div style = "display: inline_block"><br>
